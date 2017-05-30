@@ -22,4 +22,4 @@ import './main.html';
 //   },
 // });
 
-Meteor.suscribe('posts');
+Meteor.subscribe('posts');
