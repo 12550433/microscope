@@ -26,3 +26,4 @@ accounts-password@1.3.6
 check@1.2.5
 tmeasday:errors
 dynamic-import
+session
